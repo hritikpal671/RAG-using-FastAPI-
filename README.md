@@ -7,7 +7,7 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot that leverages Fa
 - `main.py`: This file contains the FastAPI code for the chatbot backend.
 - `client.py`: This file contains the Streamlit code for the chatbot frontend.
 
-https://www.loom.com/share/2b18ffad54dc40fab374a5806543cd00?sid=ab399368-a0dd-449f-8ec3-7a10babfb91b
+for demo video -https://www.loom.com/share/2b18ffad54dc40fab374a5806543cd00?sid=ab399368-a0dd-449f-8ec3-7a10babfb91b
 
 ## Prerequisites
 
